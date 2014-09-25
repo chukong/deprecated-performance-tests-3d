@@ -1,0 +1,3 @@
+[submodule "CocosPerf/cocos2d"]
+	path = CocosPerf/cocos2d
+	url = https://github.com/cocos2d/cocos2d-x
